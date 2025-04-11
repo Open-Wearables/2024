@@ -1,4 +1,4 @@
-# 📄 Paper: OpenEarable ExG: Open-Source Hardware for Ear-Based Biopotential Sensing Applications
+# 📄 OpenEarable ExG: Open-Source Hardware for Ear-Based Biopotential Sensing Applications
 
 **👥 Authors:** Philipp Lepold, Tobias Röddiger, Tobias King, Kai Kunze, Christoph Maurer, Michael Beigl<br/>
 **🔗 DOI:** [https://doi.org/10.1145/3675094.3678480](https://doi.org/10.1145/3675094.3678480)<br/>
